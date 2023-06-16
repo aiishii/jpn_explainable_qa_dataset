@@ -3,7 +3,7 @@
 This repository contains the following datasets and script:
 
 - Corpus (`corpus/early_version.json`)
-- Crowdsourcing interface (TBA by April)
+- Crowdsourcing interface (TBA)
 
 ## Corpus
 
@@ -21,7 +21,7 @@ The files are in standard JSON format.
 		"derivations": [
 			[
 				"大田区",
-				"i_15",
+				"infobox",
 				[
 					"大田区",
 					"区の鳥",
@@ -30,7 +30,7 @@ The files are in standard JSON format.
 			],
 			[
 				"ウグイス",
-				"a_19",
+				"abstract",
 				[
 					"ウグイス",
 					"分類",
